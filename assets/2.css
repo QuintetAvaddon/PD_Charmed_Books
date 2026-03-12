@@ -145,6 +145,29 @@ body {
   width: 100%;
 }
 
+#shadow1 {
+  position: absolute;
+  left: 44.351%;
+  top: 66.055%;
+  width: 23%;
+}
+
+#Rectangle1 {
+  position: absolute;
+  left: 57.351%;
+  top: 44.055%;
+  width: 10%;
+  opacity: 0%;
+}
+
+#Rectangle2 {
+  position: absolute;
+  left: 50.351%;
+  top: 15.055%;
+  width: 10%;
+  opacity: 0%;
+}
+
 @media only screen and (min-width: 480px){
   #content-mobile #heading-mobile {
     display: none;
