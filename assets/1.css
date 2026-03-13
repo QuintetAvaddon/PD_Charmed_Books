@@ -113,61 +113,6 @@ body {
   width: 350px;
 }
 
-.page-1-pic2 {
-  position: absolute;
-  z-index: 3;
-}
-
-#page-1-pic2 {
-  left: 0%;
-  top: 74%;
-  width: 500px;
-}
-
-.page-1-pic3 {
-  position: absolute;
-  z-index: 4;
-}
-
-#page-1-pic3 {
-  left: 15%;
-  top: 67%;
-  width: 550px;
-}
-
-.page-1-pic4 {
-  position: absolute;
-  z-index: 3;
-}
-
-#page-1-pic4 {
-  left: 40%;
-  top: 58%;
-  width: 400px;
-}
-
-.page-1-pic5 {
-  position: absolute;
-  z-index: 2;
-}
-
-#page-1-pic5 {
-  left: 20%;
-  top: 70%;
-  width: 100px;
-}
-
-.page-1-pic6 {
-  position: absolute;
-  z-index: 1;
-}
-
-#page-1-pic6 {
-  left: 0%;
-  top: 0%;
-  width: 600px;
-}
-
 
 @media only screen and (min-width: 480px) {
   #content-mobile #heading-mobile {
