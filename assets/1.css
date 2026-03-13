@@ -102,67 +102,67 @@ body {
   aspect-ratio: 1/1;
 }
 
-.page-1-pic {
+.page-1-pic1 {
   position: absolute;
   z-index: 2;
 }
 
-#page-1-pic {
+#page-1-pic1 {
   left: 46.5%;
   top: 5%;
   width: 350px;
 }
 
-.page-2-pic {
+.page-1-pic2 {
   position: absolute;
   z-index: 3;
 }
 
-#page-2-pic {
+#page-1-pic2 {
   left: 0%;
   top: 74%;
   width: 500px;
 }
 
-.page-3-pic {
+.page-1-pic3 {
   position: absolute;
   z-index: 4;
 }
 
-#page-3-pic {
+#page-1-pic3 {
   left: 15%;
   top: 67%;
   width: 550px;
 }
 
-.page-4-pic {
+.page-1-pic4 {
   position: absolute;
   z-index: 3;
 }
 
-#page-4-pic {
+#page-1-pic4 {
   left: 40%;
   top: 58%;
   width: 400px;
 }
 
-.page-5-pic {
+.page-1-pic5 {
   position: absolute;
   z-index: 2;
 }
 
-#page-5-pic {
+#page-1-pic5 {
   left: 20%;
   top: 70%;
   width: 100px;
 }
 
-.page-6-pic {
+.page-1-pic6 {
   position: absolute;
   z-index: 1;
 }
 
-#page-6-pic {
+#page-1-pic6 {
   left: 0%;
   top: 0%;
   width: 600px;
